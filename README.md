@@ -1,6 +1,8 @@
 # change-base
 Change number base (radix) - Feb 1994
 
+[![View chb on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/931-chb)
+
 B = chb(A,a,b) change numerical base:
 a,b scalars from 2 to 64 , A,B strings.
 Number A in base a , expressed in base b by B.
